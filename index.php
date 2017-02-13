@@ -103,7 +103,7 @@
         <div id="content" class="container-fluid">
         <iframe 
         <?php
-        echo "src=\"https://";
+        echo "src=\"https://docs.google.com/gview?embedded=true&url=";
         echo $_GET['link'];
         echo "\"";
         ?>
