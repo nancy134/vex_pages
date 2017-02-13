@@ -103,7 +103,7 @@
         <div id="content" class="container-fluid">
         <iframe 
         <?php
-        echo "src=\"";
+        echo "src=\"http://";
         echo $_GET['link'];
         echo "\"";
         ?>
